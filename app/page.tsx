@@ -17,9 +17,9 @@ const allVenues = [
     pricePerHour: 350,
     rating: 4.8,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/skyline1.png?height=300&width=400`,
+      `/skyline2.png?height=300&width=400`,
+      `/skyline3.png?height=300&width=400`,
     ],
   },
   {
@@ -31,9 +31,9 @@ const allVenues = [
     pricePerHour: 450,
     rating: 4.6,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/warehouse1.png?height=300&width=400`,
+      `/warehouse2.png?height=300&width=400`,
+      `/warehouse3.png?height=300&width=400`,
     ],
   },
   {
@@ -45,9 +45,9 @@ const allVenues = [
     pricePerHour: 550,
     rating: 4.9,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/ballroom1.png?height=300&width=400`,
+      `/ballroom2.png?height=300&width=400`,
+      `/ballroom3.png?height=300&width=400`,
     ],
   },
   {
@@ -59,9 +59,9 @@ const allVenues = [
     pricePerHour: 150,
     rating: 4.5,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/cafe1.png?height=300&width=400`,
+      `/cafe2.png?height=300&width=400`,
+      `/cafe3.png?height=300&width=400`,
     ],
   },
   {
@@ -73,9 +73,9 @@ const allVenues = [
     pricePerHour: 250,
     rating: 4.7,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/sunset1.png?height=300&width=400`,
+      `/sunset2.png?height=300&width=400`,
+      `/sunset3.png?height=300&width=400`,
     ],
   },
   {
@@ -87,9 +87,9 @@ const allVenues = [
     pricePerHour: 200,
     rating: 4.4,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/whiskey1.png?height=300&width=400`,
+      `/whiskey2.png?height=300&width=400`,
+      `/whiskey3.png?height=300&width=400`,
     ],
   },
   {
@@ -101,9 +101,9 @@ const allVenues = [
     pricePerHour: 400,
     rating: 4.3,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/echo1.png?height=300&width=400`,
+      `/echo2.png?height=300&width=400`,
+      `/echo3.png?height=300&width=400`,
     ],
   },
   {
@@ -115,9 +115,9 @@ const allVenues = [
     pricePerHour: 350,
     rating: 4.2,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/space1.png?height=300&width=400`,
+      `/space2.png?height=300&width=400`,
+      `/space3.png?height=300&width=400`,
     ],
   },
   {
@@ -129,9 +129,9 @@ const allVenues = [
     pricePerHour: 500,
     rating: 4.7,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/hall1.png?height=300&width=400`,
+      `/hall2.png?height=300&width=400`,
+      `/hall3.png?height=300&width=400`,
     ],
   },
   {
@@ -143,9 +143,9 @@ const allVenues = [
     pricePerHour: 120,
     rating: 4.4,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/brew1.png?height=300&width=400`,
+      `/brew2.png?height=300&width=400`,
+      `/brew3.png?height=300&width=400`,
     ],
   },
   {
@@ -157,9 +157,9 @@ const allVenues = [
     pricePerHour: 300,
     rating: 4.8,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/kitchen1.png?height=300&width=400`,
+      `/kitchen2.png?height=300&width=400`,
+      `/kitchen3.png?height=300&width=400`,
     ],
   },
   {
@@ -171,9 +171,9 @@ const allVenues = [
     pricePerHour: 180,
     rating: 4.6,
     images: [
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
-      `/placeholder.svg?height=300&width=400`,
+      `/speakeasy1.png?height=300&width=400`,
+      `/speakeasy2.png?height=300&width=400`,
+      `/speakeasy3.png?height=300&width=400`,
     ],
   },
 ]
