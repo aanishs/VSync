@@ -58,8 +58,8 @@ const mockInquiries = [
 const mockBookings = [
   {
     id: "book-1",
-    venueName: "Skyline Lounge",
-    venueImage: "/skyline1.png?height=100&width=100",
+    venueName: "Downtown Loft",
+    venueImage: "/loft.jpg?height=100&width=100",
     eventType: "Corporate Party",
     date: "April 20, 2025",
     time: "7:00 PM - 11:00 PM",
@@ -71,8 +71,8 @@ const mockBookings = [
   },
   {
     id: "book-2",
-    venueName: "Warehouse 213",
-    venueImage: "/warehouse1.png?height=100&width=100",
+    venueName: "Beachside Studio",
+    venueImage: "/condo.jpg?height=100&width=100",
     eventType: "Photo Shoot",
     date: "April 25, 2025",
     time: "10:00 AM - 4:00 PM",
